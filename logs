@@ -1,0 +1,552 @@
+[18dic2019 15:41:56.044] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 28.1.107, --fml.mcpVersion, 20190829.143755, --fml.mcVersion, 1.14.4, --fml.forgeGroup, net.minecraftforge, nogui]
+[18dic2019 15:41:56.047] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 4.1.0+62+5bfa59b starting: java version 1.8.0_231 by Oracle Corporation
+[18dic2019 15:41:56.501] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[18dic2019 15:41:57.432] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[18dic2019 15:42:05.001] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18dic2019 15:42:05.002] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18dic2019 15:42:05.004] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18dic2019 15:42:05.005] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18dic2019 15:42:05.006] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18dic2019 15:42:05.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.14.4
+[18dic2019 15:42:05.825] [modloading-worker-12/INFO] [mod.alexndr.simpleores.SimpleOres/]: Hello from Simple Ores!
+[18dic2019 15:42:05.830] [modloading-worker-9/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 28.1.107, for MC 1.14.4 with MCP 20190829.143755
+[18dic2019 15:42:05.834] [modloading-worker-9/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v28.1.107 Initialized
+[18dic2019 15:42:06.119] [modloading-worker-3/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity extraboats:chest_boat
+[18dic2019 15:42:06.121] [modloading-worker-3/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity extraboats:furnace_boat
+[18dic2019 15:42:06.122] [modloading-worker-3/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity extraboats:large_boat
+[18dic2019 15:42:06.844] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:06.845] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `chipped_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:06.846] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `damaged_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:06.850] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `spawner`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:06.857] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `spawner`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:06.858] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `cactus`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:06.859] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `cactus`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:06.860] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `sugar_cane`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:06.861] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `sugar_cane`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:06.862] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `bamboo`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:06.863] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `bamboo`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:06.866] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `fletching_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:06.866] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `fletching_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:07.033] [Server thread/INFO] [moreprogression/]: Blocks registered
+[18dic2019 15:42:07.567] [Server thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Block: The object Block{securitycraft:reinforced_iron_trapdoor} has been registered twice for the same name securitycraft:reinforced_iron_trapdoor.
+[18dic2019 15:42:07.588] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shears`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:07.591] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:07.591] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `chipped_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:07.591] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `damaged_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:07.599] [Server thread/INFO] [moreprogression/]: Items registered
+[18dic2019 15:42:07.716] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `cherry_tree`, expected `moreprogression`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:07.717] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `corrupted_flower`, expected `moreprogression`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:07.718] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `redwood_large`, expected `moreprogression`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:07.718] [Server thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `redwood_normal`, expected `moreprogression`. This could be a intended override, but in most cases indicates a broken mod.
+[18dic2019 15:42:07.749] [Server thread/INFO] [moreprogression/]: Registered TileEntities
+[18dic2019 15:42:07.796] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity ob_arrow
+[18dic2019 15:42:07.796] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity bh_arrow
+[18dic2019 15:42:07.798] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity securitycraft:bouncingbetty
+[18dic2019 15:42:07.799] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity securitycraft:taserbullet
+[18dic2019 15:42:07.800] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity securitycraft:imsbomb
+[18dic2019 15:42:07.801] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity securitycraft:securitycamera
+[18dic2019 15:42:07.806] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity securitycraft:sentry
+[18dic2019 15:42:07.807] [Server thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity securitycraft:bullet
+[18dic2019 15:42:07.812] [Server thread/INFO] [moreprogression/]: Registred container types
+[18dic2019 15:42:07.839] [Server thread/INFO] [moreprogression/]: Registred Recipe Serializer
+[18dic2019 15:42:07.995] [modloading-worker-0/INFO] [moreprogression/]: Setup method registered
+[18dic2019 15:42:08.070] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[18dic2019 15:42:08.131] [Server thread/INFO] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Dispatching synchronous work after COMMON_SETUP: 3 jobs
+[18dic2019 15:42:08.138] [Server thread/INFO] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Synchronous work queue completed in 00:00:00.004
+[18dic2019 15:42:08.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18dic2019 15:42:08.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18dic2019 15:42:08.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Generating keypair
+[18dic2019 15:42:08.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18dic2019 15:42:08.241] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using default channel type
+[18dic2019 15:42:08.428] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18dic2019 15:42:08.428] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18dic2019 15:42:08.429] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18dic2019 15:42:08.429] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18dic2019 15:42:08.760] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[18dic2019 15:42:08.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18dic2019 15:42:08.798] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: OUTDATED Current: 1.7.4.46 Target: 1.7.4.47
+[18dic2019 15:42:08.800] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[18dic2019 15:42:09.001] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.14.4-28.1.107-universal.jar, Apotheosis-1.14.4-2.4.4.jar, extraboats-1.1.2-1.14.4.jar, fishtraps-0.0.4.jar, ironchest-1.14.4-9.1.5.jar, jei-1.14.4-6.0.0.10 (1).jar, moreprog-1.14.4-3.2.1.jar, Placebo-1.14.4-2.3.5.jar, [1.14.4]+SecurityCraft+v1.8.14.1.jar, simpleores-1.14.4-2.0.6.0.jar, SuperTools-1.14.4_1.3c.jar, tombstone-4.1.7-1.14.4.jar, TreeChoppin-1.14.4-1.2.0.jar, useful_backpacks-1.14.4-1.7.4.46.jar, u_team_core-1.14.4-2.7.8.138.jar, XL-Food-Mod-1.14.4-2.0.2.jar, inventorysorter-1.14.4-16.2.0.jar
+[18dic2019 15:42:09.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: AHEAD Current: 4.1.7 Target: null
+[18dic2019 15:42:09.069] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[18dic2019 15:42:09.119] [Server-Worker-5/ERROR] [net.minecraft.client.resources.JsonReloadListener/]: Couldn't parse data file moreprogression:blocks/blueberry_bush from moreprogression:loot_tables/blocks/blueberry_bush.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 76 column 4 path $.pools[2]
+	at net.minecraft.util.JSONUtils.func_188173_a(SourceFile:495) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_193839_a(SourceFile:533) ~[?:?]
+	at net.minecraft.client.resources.JsonReloadListener.func_212854_a_(JsonReloadListener.java:48) ~[?:?]
+	at net.minecraft.client.resources.JsonReloadListener.func_212854_a_(JsonReloadListener.java:22) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215270_b(SourceFile:11) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:1.8.0_231]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_231]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_231]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_231]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_231]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 76 column 4 path $.pools[2]
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:560) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:414) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:730) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:739) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:714) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$35$1.read(TypeAdapters.java:910) ~[server-1.14.4-extra-stable.jar:?]
+	at net.minecraft.util.JSONUtils.func_188173_a(SourceFile:493) ~[?:?]
+	... 10 more
+[18dic2019 15:42:09.194] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: OUTDATED Current: 2.7.8.138 Target: 2.8.0.140
+[18dic2019 15:42:09.195] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fishtraps] Starting version check at https://www.curseforge.com/minecraft/mc-mods/fish-traps
+[18dic2019 15:42:09.707] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:large_magic_boat as it's conditions were not met
+[18dic2019 15:42:09.711] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:palm_furnace_boat as it's conditions were not met
+[18dic2019 15:42:09.712] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:chests/iron_silver_chest
+com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/silver'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:187) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:254) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:278) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:699) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:693) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1432) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:436) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:351) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:210) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:598) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[18dic2019 15:42:09.715] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:mahogany_furnace_boat as it's conditions were not met
+[18dic2019 15:42:09.715] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:hellbark_chest_boat as it's conditions were not met
+[18dic2019 15:42:09.718] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:willow_chest_boat as it's conditions were not met
+[18dic2019 15:42:09.721] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:large_palm_boat as it's conditions were not met
+[18dic2019 15:42:09.722] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:large_fir_boat as it's conditions were not met
+[18dic2019 15:42:09.723] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:mahogany_chest_boat as it's conditions were not met
+[18dic2019 15:42:09.724] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:fir_furnace_boat as it's conditions were not met
+[18dic2019 15:42:09.727] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:ethereal_furnace_boat as it's conditions were not met
+[18dic2019 15:42:09.728] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:ethereal_chest_boat as it's conditions were not met
+[18dic2019 15:42:09.729] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:dead_chest_boat as it's conditions were not met
+[18dic2019 15:42:09.731] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:cherry_furnace_boat as it's conditions were not met
+[18dic2019 15:42:09.731] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:redwood_chest_boat as it's conditions were not met
+[18dic2019 15:42:09.731] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:fir_chest_boat as it's conditions were not met
+[18dic2019 15:42:09.732] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:large_dead_boat as it's conditions were not met
+[18dic2019 15:42:09.732] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:jacaranda_furnace_boat as it's conditions were not met
+[18dic2019 15:42:09.733] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:large_cherry_boat as it's conditions were not met
+[18dic2019 15:42:09.734] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:large_jacaranda_boat as it's conditions were not met
+[18dic2019 15:42:09.735] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe moreprogression:redwood_fencegate
+com.google.gson.JsonSyntaxException: Unknown item 'moreprogression:redwood_fence_gate'
+	at net.minecraft.item.crafting.ShapedRecipe.lambda$deserializeItem$0(ShapedRecipe.java:264) ~[?:?]
+	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:263) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:283) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:699) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:693) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1432) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:436) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:351) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:210) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:598) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[18dic2019 15:42:09.737] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:large_willow_boat as it's conditions were not met
+[18dic2019 15:42:09.738] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:upgrades/silver_gold_chest_upgrade
+com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/silver'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:187) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:254) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:278) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:699) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:693) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1432) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:436) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:351) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:210) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:598) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[18dic2019 15:42:09.742] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:palm_chest_boat as it's conditions were not met
+[18dic2019 15:42:09.743] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:redwood_furnace_boat as it's conditions were not met
+[18dic2019 15:42:09.744] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:large_mahogany_boat as it's conditions were not met
+[18dic2019 15:42:09.747] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:hellbark_furnace_boat as it's conditions were not met
+[18dic2019 15:42:09.748] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:dead_furnace_boat as it's conditions were not met
+[18dic2019 15:42:09.749] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:cherry_chest_boat as it's conditions were not met
+[18dic2019 15:42:09.749] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:umbran_chest_boat as it's conditions were not met
+[18dic2019 15:42:09.750] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:upgrades/copper_silver_chest_upgrade
+com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/silver'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:187) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:254) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:278) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:699) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:693) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1432) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:436) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:351) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:210) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:598) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[18dic2019 15:42:09.753] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:willow_furnace_boat as it's conditions were not met
+[18dic2019 15:42:09.754] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:jacaranda_chest_boat as it's conditions were not met
+[18dic2019 15:42:09.755] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:large_umbran_boat as it's conditions were not met
+[18dic2019 15:42:09.759] [Server thread/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ironchest:chests/copper_silver_chest
+com.google.gson.JsonSyntaxException: Unknown item tag 'forge:ingots/silver'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:221) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:187) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:254) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:278) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:274) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:134) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:60) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:37) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:699) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:693) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1432) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:436) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:351) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:210) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:598) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[18dic2019 15:42:09.761] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:umbran_furnace_boat as it's conditions were not met
+[18dic2019 15:42:09.764] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:large_ethereal_boat as it's conditions were not met
+[18dic2019 15:42:09.764] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:magic_chest_boat as it's conditions were not met
+[18dic2019 15:42:09.765] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:magic_furnace_boat as it's conditions were not met
+[18dic2019 15:42:09.766] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:large_redwood_boat as it's conditions were not met
+[18dic2019 15:42:09.766] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe extraboats:large_hellbark_boat as it's conditions were not met
+[18dic2019 15:42:09.768] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 9 recipes
+[18dic2019 15:42:09.770] [Server thread/INFO] [placebo/]: Registered 18 additional recipes.
+[18dic2019 15:42:09.770] [Server thread/INFO] [placebo/]: Beginning replacement of all shapeless recipes...
+[18dic2019 15:42:09.773] [Server thread/INFO] [placebo/]: Successfully replaced 242 recipes with fast recipes.
+[18dic2019 15:42:09.826] [Server thread/ERROR] [net.minecraft.world.storage.loot.LootTableManager/]: Couldn't parse loot table moreprogression:blocks/cherry_fence
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'biomesoplenty:cherry_fence'
+	at net.minecraft.util.JSONUtils.func_219793_a(SourceFile:128) ~[?:?]
+	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.util.JSONUtils.func_188172_b(SourceFile:128) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188180_i(SourceFile:136) ~[?:?]
+	at net.minecraft.world.storage.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:54) ~[?:?]
+	at net.minecraft.world.storage.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:35) ~[?:?]
+	at net.minecraft.world.storage.loot.StandaloneLootEntry$Serializer.func_212865_b_(SourceFile:160) ~[?:?]
+	at net.minecraft.world.storage.loot.StandaloneLootEntry$Serializer.func_212865_b_(SourceFile:134) ~[?:?]
+	at net.minecraft.world.storage.loot.LootEntryManager$Serializer.deserialize(SourceFile:53) ~[?:?]
+	at net.minecraft.world.storage.loot.LootEntryManager$Serializer.deserialize(SourceFile:41) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.14.4-extra-stable.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.world.storage.loot.LootPool$Serializer.deserialize(LootPool.java:208) ~[?:?]
+	at net.minecraft.world.storage.loot.LootPool$Serializer.deserialize(LootPool.java:205) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.14.4-extra-stable.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.world.storage.loot.LootTable$Serializer.deserialize(LootTable.java:245) ~[?:?]
+	at net.minecraft.world.storage.loot.LootTable$Serializer.deserialize(LootTable.java:242) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.14.4-extra-stable.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:821) ~[?:?]
+	at net.minecraft.world.storage.loot.LootTableManager.lambda$apply$0(LootTableManager.java:47) ~[?:?]
+	at java.util.HashMap.forEach(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.world.storage.loot.LootTableManager.func_212853_a_(LootTableManager.java:44) ~[?:?]
+	at net.minecraft.world.storage.loot.LootTableManager.func_212853_a_(LootTableManager.java:24) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:699) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:693) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1432) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:436) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:351) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:210) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:598) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[18dic2019 15:42:09.848] [Server thread/ERROR] [net.minecraft.world.storage.loot.LootTableManager/]: Couldn't parse loot table moreprogression:blocks/redwood_fence_gate
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'moreprogression:redwood_fence_gate'
+	at net.minecraft.util.JSONUtils.func_219793_a(SourceFile:128) ~[?:?]
+	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.util.JSONUtils.func_188172_b(SourceFile:128) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188180_i(SourceFile:136) ~[?:?]
+	at net.minecraft.world.storage.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:54) ~[?:?]
+	at net.minecraft.world.storage.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:35) ~[?:?]
+	at net.minecraft.world.storage.loot.StandaloneLootEntry$Serializer.func_212865_b_(SourceFile:160) ~[?:?]
+	at net.minecraft.world.storage.loot.StandaloneLootEntry$Serializer.func_212865_b_(SourceFile:134) ~[?:?]
+	at net.minecraft.world.storage.loot.LootEntryManager$Serializer.deserialize(SourceFile:53) ~[?:?]
+	at net.minecraft.world.storage.loot.LootEntryManager$Serializer.deserialize(SourceFile:41) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.14.4-extra-stable.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.world.storage.loot.LootPool$Serializer.deserialize(LootPool.java:208) ~[?:?]
+	at net.minecraft.world.storage.loot.LootPool$Serializer.deserialize(LootPool.java:205) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.14.4-extra-stable.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.world.storage.loot.LootTable$Serializer.deserialize(LootTable.java:245) ~[?:?]
+	at net.minecraft.world.storage.loot.LootTable$Serializer.deserialize(LootTable.java:242) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.14.4-extra-stable.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:821) ~[?:?]
+	at net.minecraft.world.storage.loot.LootTableManager.lambda$apply$0(LootTableManager.java:47) ~[?:?]
+	at java.util.HashMap.forEach(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.world.storage.loot.LootTableManager.func_212853_a_(LootTableManager.java:44) ~[?:?]
+	at net.minecraft.world.storage.loot.LootTableManager.func_212853_a_(LootTableManager.java:24) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:699) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:693) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1432) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:436) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:351) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:210) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:598) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[18dic2019 15:42:09.852] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.io.IOException: Server returned HTTP response code: 403 for URL: https://www.curseforge.com/minecraft/mc-mods/fish-traps
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_231]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_231]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.8.0_231]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.8.0_231]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source) ~[?:1.8.0_231]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(Unknown Source) ~[?:1.8.0_231]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_231]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source) ~[?:1.8.0_231]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[?:1.8.0_231]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:1.8.0_231]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlStream(VersionChecker.java:189) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:206) ~[?:?]
+	at java.lang.Iterable.forEach(Unknown Source) [?:1.8.0_231]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:157) [?:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://www.curseforge.com/minecraft/mc-mods/fish-traps
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[?:1.8.0_231]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:1.8.0_231]
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source) ~[?:1.8.0_231]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlStream(VersionChecker.java:173) ~[?:?]
+	... 3 more
+[18dic2019 15:42:09.853] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [xlfoodmod] Starting version check at https://raw.githubusercontent.com/mariot7/XL-Food-Mod/1.14/update.json
+[18dic2019 15:42:09.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [xlfoodmod] Found status: OUTDATED Current: 2.0.2 Target: 2.1.1
+[18dic2019 15:42:09.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[18dic2019 15:42:10.065] [Server thread/ERROR] [net.minecraft.world.storage.loot.LootTableManager/]: Couldn't parse loot table moreprogression:blocks/silverwood_fence
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'biomesoplenty:silverwood_fence'
+	at net.minecraft.util.JSONUtils.func_219793_a(SourceFile:128) ~[?:?]
+	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.util.JSONUtils.func_188172_b(SourceFile:128) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188180_i(SourceFile:136) ~[?:?]
+	at net.minecraft.world.storage.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:54) ~[?:?]
+	at net.minecraft.world.storage.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:35) ~[?:?]
+	at net.minecraft.world.storage.loot.StandaloneLootEntry$Serializer.func_212865_b_(SourceFile:160) ~[?:?]
+	at net.minecraft.world.storage.loot.StandaloneLootEntry$Serializer.func_212865_b_(SourceFile:134) ~[?:?]
+	at net.minecraft.world.storage.loot.LootEntryManager$Serializer.deserialize(SourceFile:53) ~[?:?]
+	at net.minecraft.world.storage.loot.LootEntryManager$Serializer.deserialize(SourceFile:41) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.14.4-extra-stable.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.world.storage.loot.LootPool$Serializer.deserialize(LootPool.java:208) ~[?:?]
+	at net.minecraft.world.storage.loot.LootPool$Serializer.deserialize(LootPool.java:205) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.14.4-extra-stable.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.world.storage.loot.LootTable$Serializer.deserialize(LootTable.java:245) ~[?:?]
+	at net.minecraft.world.storage.loot.LootTable$Serializer.deserialize(LootTable.java:242) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.14.4-extra-stable.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.14.4-extra-stable.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:821) ~[?:?]
+	at net.minecraft.world.storage.loot.LootTableManager.lambda$apply$0(LootTableManager.java:47) ~[?:?]
+	at java.util.HashMap.forEach(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.world.storage.loot.LootTableManager.func_212853_a_(LootTableManager.java:44) ~[?:?]
+	at net.minecraft.world.storage.loot.LootTableManager.func_212853_a_(LootTableManager.java:24) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_231]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_231]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) [?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:699) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:693) [?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195568_a(MinecraftServer.java:1432) [?:?]
+	at net.minecraft.server.MinecraftServer.func_195560_a(MinecraftServer.java:436) [?:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:351) [?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:210) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:598) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_231]
+[18dic2019 15:42:10.088] [Server thread/INFO] [placebo/]: Registered 4 additional loot tables.
+[18dic2019 15:42:10.118] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/large_dead_boat as it's conditions were not met
+[18dic2019 15:42:10.124] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/palm_chest_boat as it's conditions were not met
+[18dic2019 15:42:10.125] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/redwood_furnace_boat as it's conditions were not met
+[18dic2019 15:42:10.130] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/large_ethereal_boat as it's conditions were not met
+[18dic2019 15:42:10.135] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/large_palm_boat as it's conditions were not met
+[18dic2019 15:42:10.136] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/large_mahogany_boat as it's conditions were not met
+[18dic2019 15:42:10.136] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/magic_chest_boat as it's conditions were not met
+[18dic2019 15:42:10.140] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/dead_chest_boat as it's conditions were not met
+[18dic2019 15:42:10.143] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/hellbark_furnace_boat as it's conditions were not met
+[18dic2019 15:42:10.152] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/willow_furnace_boat as it's conditions were not met
+[18dic2019 15:42:10.154] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/large_willow_boat as it's conditions were not met
+[18dic2019 15:42:10.156] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/large_jacaranda_boat as it's conditions were not met
+[18dic2019 15:42:10.158] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/hellbark_chest_boat as it's conditions were not met
+[18dic2019 15:42:10.162] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/mahogany_furnace_boat as it's conditions were not met
+[18dic2019 15:42:10.164] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/jacaranda_furnace_boat as it's conditions were not met
+[18dic2019 15:42:10.164] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/cherry_chest_boat as it's conditions were not met
+[18dic2019 15:42:10.166] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/ethereal_chest_boat as it's conditions were not met
+[18dic2019 15:42:10.168] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/redwood_chest_boat as it's conditions were not met
+[18dic2019 15:42:10.171] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/cherry_furnace_boat as it's conditions were not met
+[18dic2019 15:42:10.172] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/large_cherry_boat as it's conditions were not met
+[18dic2019 15:42:10.177] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/ethereal_furnace_boat as it's conditions were not met
+[18dic2019 15:42:10.179] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/fir_chest_boat as it's conditions were not met
+[18dic2019 15:42:10.179] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/magic_furnace_boat as it's conditions were not met
+[18dic2019 15:42:10.181] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/large_umbran_boat as it's conditions were not met
+[18dic2019 15:42:10.184] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/umbran_furnace_boat as it's conditions were not met
+[18dic2019 15:42:10.185] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/mahogany_chest_boat as it's conditions were not met
+[18dic2019 15:42:10.188] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/large_redwood_boat as it's conditions were not met
+[18dic2019 15:42:10.189] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/large_hellbark_boat as it's conditions were not met
+[18dic2019 15:42:10.191] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/large_magic_boat as it's conditions were not met
+[18dic2019 15:42:10.191] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/palm_furnace_boat as it's conditions were not met
+[18dic2019 15:42:10.192] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/willow_chest_boat as it's conditions were not met
+[18dic2019 15:42:10.197] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/large_fir_boat as it's conditions were not met
+[18dic2019 15:42:10.198] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/umbran_chest_boat as it's conditions were not met
+[18dic2019 15:42:10.198] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/fir_furnace_boat as it's conditions were not met
+[18dic2019 15:42:10.200] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/jacaranda_chest_boat as it's conditions were not met
+[18dic2019 15:42:10.201] [Server thread/INFO] [net.minecraft.advancements.AdvancementManager/]: Skipping loading advancement extraboats:recipes/dead_furnace_boat as it's conditions were not met
+[18dic2019 15:42:10.208] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1253 advancements
+[18dic2019 15:42:10.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18dic2019 15:42:10.516] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 28.1.107 Target: null
+[18dic2019 15:42:10.516] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpleores] Starting version check at https://raw.githubusercontent.com/Sinhika/SimpleOres2/1.14/update.json
+[18dic2019 15:42:10.536] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpleores] Found status: BETA_OUTDATED Current: 1.14.4-2.0.6.0 Target: 2.0.5.1
+[18dic2019 15:42:10.536] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[18dic2019 15:42:11.038] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18dic2019 15:42:11.038] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18dic2019 15:42:11.195] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: v1.8.14.1 Target: null
+[18dic2019 15:42:11.347] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 949 ms
+[18dic2019 15:42:11.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.617s)! For help, type "help"
+[18dic2019 15:42:11.514] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18dic2019 15:42:11.515] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18dic2019 15:42:11.517] [Server thread/INFO] [tombstone/]: The list of contributors and patreons has been loaded successfully
+[18dic2019 15:42:24.205] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@7dca2721[id=<null>,name=Shaseram,properties={},legacy=false] (/192.168.0.19:55737) lost connection: Disconnected
+[18dic2019 15:43:03.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[18dic2019 15:43:03.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18dic2019 15:43:03.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18dic2019 15:43:03.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18dic2019 15:43:03.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'world'/minecraft:overworld
+[18dic2019 15:43:04.191] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18dic2019 15:43:04.216] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
